@@ -1,3 +1,43 @@
 {
-    "contacts":[]
+  "contacts": [
+    {
+      "id": "b15e",
+      "name": "Barnali Debnath",
+      "phone": "9870512345",
+      "email": "barnali03@gmail.com",
+      "city": "West Tripura"
+    },
+    {
+      "id": "d21f",
+      "name": "Saheli Deb",
+      "phone": "9087656789",
+      "email": "saheli20@gmail.com",
+      "city": "West Tripura",
+      "address": "Harish Thakur Road Krishnanagar, Near srima varities"
+    },
+    {
+      "id": "d092",
+      "name": "Saptadipa Datta",
+      "phone": "7005629322",
+      "email": "dattasaptadipa6@gmail.com",
+      "city": "West Tripura",
+      "address": "Harish Thakur Road Krishnanagar, Near srima varities"
+    },
+    {
+      "id": "7b81",
+      "name": "Hrishav Bhattacharya",
+      "phone": "9807634621",
+      "email": "hrishu23@gmail.com",
+      "city": "West Tripura",
+      "address": "Harish Thakur Road Krishnanagar, Near srima varities"
+    },
+    {
+      "id": "438a",
+      "name": "Omisha Bajoria",
+      "phone": "8906734521",
+      "email": "omi27@gmail.com",
+      "city": "West Tripura",
+      "address": "Harish Thakur Road Krishnanagar, Near srima varities"
+    }
+  ]
 }

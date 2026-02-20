@@ -80,3 +80,10 @@ input, textarea {
     background: #ff4d4d;
     color: white;
 }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
