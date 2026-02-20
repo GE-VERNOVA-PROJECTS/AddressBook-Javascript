@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Address Book</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header class="top-bar">
+    <div>
+        <h1>Contacts</h1>
+        <p><span id="count">0</span> Contact(s)</p>
+    </div>
+    <a class="btn primary" href="add-contact.html">+ Add Contact</a>
+</header>
+
+<div class="controls">
+    <input type="text" id="search" placeholder="Search contacts...">
+    <button id="sortBtn">Sort A–Z</button>
+</div>
+
+<div id="cards" class="card-container"></div>
+
+<script src="../js/service.js"></script>
+<script src="../js/home.js"></script>
+</body>
+</html>
